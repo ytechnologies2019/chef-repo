@@ -10,6 +10,7 @@ version           '11.1.4'
 depends 'mysql'
 depends 'apparmor'
 
+
 supports 'redhat', '>= 7.0'
 supports 'centos', '>= 7.0'
 supports 'scientific', '>= 7.0'
